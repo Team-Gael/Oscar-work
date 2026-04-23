@@ -2,7 +2,8 @@
 Este repositorio abarca la entrega realizada para el profesor Oscar para la asignatura: TE3003B.501
 
 # Exploración autónoma de Robotino en entorno interior usando SLAM, RRT y LiDAR
-
+- Video de la simulación en funcionamiento: https://youtu.be/iwGmthLcTfo
+  
 ## Integrantes
 - Daniel Alejandro De La Peña Rosales A01658540
 - Natalia Ameyali Zarco Heras A01663337
